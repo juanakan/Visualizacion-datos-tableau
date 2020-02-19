@@ -1,1 +1,3 @@
-# Visualizacion-datos-tableau
+# Practica tableau
+
+### Pregunta para comenzar la practica.

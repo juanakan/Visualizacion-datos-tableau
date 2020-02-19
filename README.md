@@ -6,4 +6,4 @@ en la primera hoja he filtrado por barrios y he puesto un parametro que se llama
 
 en la segunda hoja he creado una jerarquia con tipo de propiedad y tipo de habitacion para que me muestre los tipos por el precio total  tambien lo he filtrado por el tipo de propiedad
 
- en la tercera hoja he realizado un mapa para ver el nivel de precio segun el codigo postal  donde he creado un campo calculado que me indica tres niveles de precios: baratos, precio medio y caros. Facilmente podremos diferenciar cual es el nivel. tambien he asociado otra hoja a la descripcion para que me muestre el precio por codigo postal.
+ en la tercera hoja he realizado un mapa para ver el nivel de precio segun el codigo postal  donde he creado un campo calculado que me indica tres niveles de precios: baratos, precio medio y caros. Facilmente podremos diferenciar cual es el nivel. tambien he asociado otra hoja a la descripcion para que me muestre el precio por codigo postal y como habia codigos postales que no tenian ningun airbnb he creado otro campo calculado que me muestre un texto que dice que no hay airbnb.
